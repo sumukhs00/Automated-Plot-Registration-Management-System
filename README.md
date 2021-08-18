@@ -8,3 +8,4 @@ A plot may also be defined as a small area of land that is empty except for a me
 
 ![Screenshot (207)](https://user-images.githubusercontent.com/55579973/128669538-3aa1b3a9-68ef-42df-b2e7-f98712b20253.png)
 ![Screenshot (211)](https://user-images.githubusercontent.com/55579973/128669551-1711a9eb-a066-410c-bab0-69830c3d05f8.png)
+![Screenshot (333)](https://user-images.githubusercontent.com/55579973/129914133-1a07fe96-994e-4fe0-b653-b44b4678aa5f.png)
